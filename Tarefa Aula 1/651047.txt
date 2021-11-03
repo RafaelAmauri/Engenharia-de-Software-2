@@ -1,0 +1,32 @@
+Aluno: Rafael Amauri Diniz Augusto - 651047
+
+Questção 1:
+
+UAW 1 ator complexo = 1 * 3 -> 3
+
+UUCW = 40
+
+UUCP = 43
+
+T factor = 1 + 2 + 3 + 0.5 + 2.5 + 2 -> 11
+
+TFC = 0.6 + (0.01 * 11) -> 0.71
+
+E factor = 7.5 + 2.5 + 2.5 + 4 + 0 + 10 - 5 -> 21.5
+
+
+ECF = 1.4 + (-0.03 * 21.5) -> 0.755
+
+UCP = 43 * 0.71 * 0.635 -> 19.38655
+
+Questão 2:
+
+3 desenvolvedores trabahando por 8 horas / dia, sendo que levam 16h / UCP -> 1.5 UCP/dia
+
+19.38655 UCP / 1.5 -> 12.92436666666666666667 dias -> 20/13 -> 0.65 meses
+
+6.45 / 1.5
+
+Questão 3:
+
+142 * 24 * 15 = R$ 51120
