@@ -1,6 +1,6 @@
 ## Engenharia de Software 2 - ES 2
 
-Aqui se encontram todos meus arquivos para a matéria Engenharia de Software 2.
+Aqui se encontram todos meus arquivos para a matéria Engenharia de Software 2 com o professor Sandro Laudares.
 
 Meus códigos inteiros ou trechos deles podem ser usados por todos, sem restrições. Tenha em mente que eu **NÃO** me responsabilizo por possíveis acusações de plágio ou cola, sejam elas por parte da PUC-MG ou qualquer outra instituição/pessoa.
 
